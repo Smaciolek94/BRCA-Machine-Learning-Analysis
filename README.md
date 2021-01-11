@@ -3,7 +3,7 @@ Using various maching learning methods to detect Breast Cancer from cell data fr
 
 brcax.csv and brcay.csv are the input predictor and response data
 
-Analysis.py is the program used to conduct analysis
+Analysis Updated.py is the program used to conduct analysis
 
 Plots contains figures used in the final write up
 
