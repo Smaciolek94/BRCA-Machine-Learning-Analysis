@@ -4,10 +4,10 @@ Using various maching learning methods to detect Breast Cancer from cell data fr
 **Files**<ul>
   <li>brcax.csv and brcay.csv are the input predictor and response data</li>
   <li>Analysis Updated.py is the program used to conduct analysis</li>
-<li>Plots contains figures used in the final write up<li>
+<li>Plots contains figures used in the final write up</li>
   </ul>
 
-**Final Analysis is here:**<br>
+**The final project can be viewed here:**<br>
 https://smaciolekdatascience.wordpress.com/2020/07/22/comparison-of-machine-learning-methods-for-breast-cancer-detection/
 
 **References:**<ol>
